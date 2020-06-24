@@ -1,0 +1,17 @@
+{
+  "name": "shopup",
+  "displayName": "shopup",
+  "expo": {
+    "name": "shopup",
+    "slug": "shopup",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
